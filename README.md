@@ -1,8 +1,9 @@
-#MYBIKE landing page
+# MYBIKE landing page
 
 - [DEMO LINK](https://maksimkad.github.io/mybike-landing-page/)
 - [FIGMA MOCKUP](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=0-1&mode=design&t=E6Cz4msvSxfkImw0-0)
-  
+ 
+# technologies 
 The following technologies were used in this project:
 
 HTML: Used for creating the structure and content of the web page.
